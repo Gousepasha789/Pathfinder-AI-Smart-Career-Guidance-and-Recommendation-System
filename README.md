@@ -36,7 +36,8 @@ PathFinder AI is a machine-learning powered career recommendation platform that 
 
 # Folder Structure 
 
-`PathFinder/
+```
+PathFinder/
 ├── app.py                        
 ├── models/
 │   ├── career_model.pkl          
@@ -53,5 +54,6 @@ PathFinder AI is a machine-learning powered career recommendation platform that 
 ├── dataset/
 │   └── career_dataset.csv        
 ├── requirements.txt              
-└── README.md    `
+└── README.md
+```
                  
